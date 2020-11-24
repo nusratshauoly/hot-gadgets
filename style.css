@@ -1,0 +1,234 @@
+.container{
+    margin-bottom:30px;
+
+}
+.logo-image{
+    width:120px;
+}
+
+.nav-link{
+    font-size:12px;
+    font-weight:bold;
+    font-color:gray;
+    
+}
+.distance{
+    padding:20px;
+}
+
+.carousel-item{
+    padding:20px 40px;
+
+}
+
+
+.carousel-item img{
+    width:100px;
+}
+.buy-now-button{
+    background-color:black;
+    color:#fff;
+    border:none;
+    border-radius: 8px;
+   
+    padding:9px 25px;
+    cursor:pointer;
+
+}
+.background{
+    height:100px;
+    width:100px;
+}
+
+.description{
+    
+    margin-top:70px;
+}
+
+.small{
+    color:gray;
+}
+
+
+.carousel-indicators .mark{
+    
+    border-bottom:5px solid orange;
+    width:20px;
+    text-align: center;
+    border-radius: 5px;;
+    
+    
+}
+
+.bg-2{
+    position:relative;
+   
+}
+.bg-2 img{
+    position:absolute;
+    left:-100px;
+    bottom:0;
+    height:130px;
+    width:130px;
+    
+}
+.title{
+    font-weight:bold;
+}
+.orange{
+    color:orange;
+    font-weight: bold;
+    font-size:14px;
+}
+
+.phone .laptop{
+    margin-top:20px;
+}
+
+    
+.card-img{
+    padding:40px 80px;
+}
+
+.body-title{
+    text-align:center;
+}
+
+.bold{
+    font-weight: bold;
+}
+    
+    
+   .small-text{
+       font-size:12px;
+       color:gray;
+   } 
+
+   .card{
+       border-style:none;
+       border-radius: 40px;
+       box-shadow: 5px 10px 10px 5px  rgba(112, 116, 65, 0.2);
+   }
+
+   .headings{
+       text-align: center;
+       font-weight: bold;
+       color:black;
+    
+   }
+
+   .hr-style{
+    border:8px solid orange;
+    border-bottom:none;
+    width:80px;
+    border-radius: 40px;
+
+   }
+
+   
+   .half-image img{
+       
+       width:100%;
+       image-si
+   }
+   .number1{
+       
+       border:1px solid black;
+       
+       border:none;
+       box-shadow:10px 10px 10px 10px lightgrey;
+       border-radius: 3px 15px 3px 40px; 
+       left:-30px;
+      
+       
+
+       
+   }
+
+   .number1 img{
+       width:100%;
+       padding:40px 80px;
+      
+       
+       
+       
+   }
+
+
+   .number1 p{
+       
+       font-weight: bold;
+       text-align: center;
+    
+
+   }
+
+
+   .number2{
+       
+    border:1px solid black;
+    
+    border:none;
+    box-shadow:10px 10px 10px 10px lightgrey;
+    border-radius: 15px 3px 40px 3px; 
+    
+   
+    
+
+    
+}
+
+.number2 img{
+    width:100%;
+    padding:50px 90px;
+    
+    
+}
+
+
+.number2 p{
+    
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+
+.number3{
+       
+    border:1px solid black;
+    
+    border:none;
+    box-shadow:10px 10px 10px 10px lightgrey;
+    border-radius: 15px 3px 40px 3px; 
+   
+    
+
+    
+}
+
+.number3 img{
+    width:100%;
+    padding:40px 80px;
+    top:20px;
+    
+}
+
+
+
+    .number3 p{
+    
+        font-weight: bold;
+        text-align: center;
+        bottom:60px;
+    
+    }
+
+
+
+
+
+
+
+   
